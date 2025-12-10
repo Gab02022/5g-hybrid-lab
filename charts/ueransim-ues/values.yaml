@@ -67,6 +67,8 @@ count: 1
 initialMSISDN: '0000000001'
 mcc: '999'
 mnc: '70'
+gnbSearchList:
+  - "ueransim-gnb-edge.ueransim.svc.cluster.local"
 key: 465B5CE8B199B49FAA5F0A2EE238A6BC
 op: E8ED289DEBA952E4283B54E88E6183CA
 opType: OPC
